@@ -30,3 +30,14 @@ I believe in learning by doing. My focus is on understanding the fundamentals, p
 
 ## Goals
 Become a cloud security proffesional.
+
+
+## Hands-on Projects
+
+### AWS S3 Security Lab
+
+A beginner-friendly, hands-on project focused on securing Amazon S3, configuring IAM least-privilege access, and testing permissions using the IAM Policy Simulator.
+
+**Technologies:** Amazon S3, AWS IAM, IAM Policy Simulator.
+
+[View Project](https://github.com/Mixmola/aws-s3-security-lab)
